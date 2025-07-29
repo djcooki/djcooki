@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @djcooki
+<h1 align="center";>Yo, I'm @djcooki</h1>
 
-
-<!---
-djcooki/djcooki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
